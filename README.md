@@ -3,7 +3,7 @@
 ### Hi there 👋, i am md shamim miah
 #### I am GitHub Readme Generator's creator
 
-i am shamim,i am a font end developer, i hope will success in this sector.i all time try to improvement in development side and  day by day doing improve.recently web development my passion and i see dream,oneday i will set brightfull life.
+i am shamim,i am a font end developer, i hope,i will success in this sector.i all time try to improvement in development side and  day by day doing improve.recently web development my passion and i see dream,oneday i will set brightfull life.
 
 Skills: Mongodb / REACT / JS / HTML / Tailwind CSS
 
