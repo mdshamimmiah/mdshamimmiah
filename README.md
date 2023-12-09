@@ -5,9 +5,11 @@
 i am shamim,i am a font end developer, i hope,i will success in this sector.i all time try to improvement in development side and  day by day doing improve.recently web development my passion and i see dream,oneday i will set brightfull life.
 
 Skills:Mongodb / REACT / JS / HTML / Tailwind CSS
+<h1>Current Overview</h1>
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning javascript 
+- 🌱 I’m currently learning javascript.
+- Ask me about React
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Md Shamim Miah/)  
